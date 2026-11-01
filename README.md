@@ -1,16 +1,16 @@
 
 <!-- ============================================ -->
 <!--          GITHUB PROFILE README              -->
-<!--                 RI MAHIN                    -->
+<!--             @ri-mahin                       -->
 <!-- ============================================ -->
 
 <div align="center">
 
   <!-- HEADER BANNER -->
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:161B22,100:2563EB&height=200&section=header&text=RI%20MAHIN&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Flutter%20Developer%20%7C%20Game%20Development%20Enthusiast&descAlignY=58&descSize=16"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:161B22,100:2563EB&height=200&section=header&text=MAHIN&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Flutter%20Developer%20%7C%20Game%20Development%20Enthusiast&descAlignY=58&descSize=16"
     width="100%"
-    alt="RI MAHIN Profile Banner"
+    alt="Mahin Profile Banner"
   />
 
   # Hi there, I'm Mohammad Rashiqul Ishraque Mahin 👋
@@ -38,33 +38,36 @@
 
 ## 👨‍💻 About Me
 
-<div align="center">
+```yaml
+name: Mohammad Rashiqul Ishraque Mahin
+username: ri-mahin
+location: Bangladesh
 
-<table>
-<tr>
-<td>
+role:
+  - Flutter Developer
+  - App Developer
+  - Aspiring Game Developer
 
-👋 **Hello! I'm Mahin**, a developer from Bangladesh.
+currently_learning:
+  - Unreal Engine
+  - Game Development
 
-📱 Passionate about building cross-platform applications using **Flutter**.
+interests:
+  - Mobile App Development
+  - Game Development
+  - Technology
+  - Content Creation
 
-🎮 Currently exploring **Game Development with Unreal Engine and Unity**.
+email: mdrimahin@gmail.com
+```
 
-🚀 Always interested in learning new technologies and building creative projects.
-
-🎥 I'm also a **Content Creator**.
-
-💬 Feel free to ask me about **Flutter, Unity and Unreal Engine**.
-
-📫 **Email:** [mdrimahin@gmail.com](mailto:mdrimahin@gmail.com)
-
-⚡ **Fun Fact:** I love turning ideas into digital experiences.
-
-</td>
-</tr>
-</table>
-
-</div>
+- 🇧🇩 I'm a developer from Bangladesh.
+- 📱 Passionate about building cross-platform applications using Flutter.
+- 🎮 Currently exploring game development with Unreal Engine and Unity.
+- 🚀 Always interested in learning new technologies and building creative projects.
+- 🎥 I'm also a content creator.
+- 💬 Ask me about Flutter, Unity and Unreal Engine.
+- ⚡ Fun fact: I love turning ideas into digital experiences.
 
 ---
 
@@ -176,16 +179,22 @@
 </div>
 
 <!--
+  ============================================
   FUTURE FEATURED PROJECTS
+  ============================================
 
-  Replace this comment with your actual repository cards
-  when you publish your projects.
+  When you publish projects, replace this comment
+  with your actual repository cards.
+
+  Example:
 
   <div align="center">
     <a href="https://github.com/ri-mahin/PROJECT_NAME">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=ri-mahin&repo=PROJECT_NAME&theme=github_dark&hide_border=true" />
     </a>
   </div>
+
+  You can add up to 6 project cards.
 -->
 
 ---

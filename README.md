@@ -1,16 +1,16 @@
 
 <!-- ============================================ -->
 <!--          GITHUB PROFILE README              -->
-<!--                @ri-mahin                    -->
+<!--             @ri-mahin                       -->
 <!-- ============================================ -->
 
 <div align="center">
 
   <!-- HEADER BANNER -->
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:161B22,100:2563EB&height=200&section=header&text=RI%20MAHIN&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Flutter%20Developer%20%7C%20Game%20Development%20Enthusiast&descAlignY=58&descSize=16"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:161B22,100:2563EB&height=200&section=header&text=MAHIN&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Flutter%20Developer%20%7C%20Game%20Development%20Enthusiast&descAlignY=58&descSize=16"
     width="100%"
-    alt="RI MAHIN Profile Banner"
+    alt="Mahin Profile Banner"
   />
 
   # Hi there, I'm Mohammad Rashiqul Ishraque Mahin 👋
@@ -41,7 +41,7 @@
 ```yaml
 name: Mohammad Rashiqul Ishraque Mahin
 username: ri-mahin
-location: Dhaka, Bangladesh
+location: Bangladesh
 
 role:
   - Flutter Developer

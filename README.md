@@ -61,7 +61,7 @@ interests:
 email: mdrimahin@gmail.com
 ```
 
-- 🇧🇩 I'm a developer from Bangladesh.
+- 🧑‍💻 I'm an app developer from Bangladesh.
 - 📱 Passionate about building cross-platform applications using Flutter.
 - 🎮 Currently exploring game development with Unreal Engine and Unity.
 - 🚀 Always interested in learning new technologies and building creative projects.

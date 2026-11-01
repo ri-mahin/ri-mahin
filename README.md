@@ -1,32 +1,262 @@
-<h1 align="center">Hi 👋, I'm Mohammad Rashiqul Ishraque Mahin</h1>
-<h3 align="center">A passionate Flutter cross platform app developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ri-mahin&label=Profile%20views&color=0e75b6&style=flat" alt="ri-mahin" /> </p>
+<!-- ============================================ -->
+<!--          GITHUB PROFILE README              -->
+<!--             @ri-mahin                       -->
+<!-- ============================================ -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ri-mahin" alt="ri-mahin" /></a> </p>
+<div align="center">
 
-- 🌱 I’m currently learning **game development in unreal engine**
+  <!-- HEADER BANNER -->
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:161B22,100:2563EB&height=200&section=header&text=MAHIN&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Flutter%20Developer%20%7C%20Game%20Development%20Enthusiast&descAlignY=58&descSize=16"
+    width="100%"
+    alt="Mahin Profile Banner"
+  />
 
-- 💬 Ask me about **flutter, unity & unreal engine**
+  # Hi there, I'm Mohammad Rashiqul Ishraque Mahin 👋
 
-- 📫 How to reach me **mdrimahin@gmail.com**
+  ### Flutter Developer | App Developer | Game Development Enthusiast
 
-- ⚡ Fun fact **I am a content creator**
+  <p>
+    <a href="https://github.com/ri-mahin">
+      <img src="https://komarev.com/ghpvc/?username=ri-mahin&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" alt="Profile Views"/>
+    </a>
+    <a href="https://github.com/ri-mahin?tab=followers">
+      <img src="https://img.shields.io/github/followers/ri-mahin?label=FOLLOWERS&style=for-the-badge&color=161B22&logo=github" alt="Followers"/>
+    </a>
+  </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ri-mahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ri-mahin" height="30" width="40" /></a>
-<a href="https://fb.com/mohammadrashiquemahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohammadrashiquemahin" height="30" width="40" /></a>
-<a href="https://instagram.com/r.i_mahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r.i_mahin" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@ri_mahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ri_mahin" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mdrimahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mdrimahin" height="30" width="40" /></a>
-</p>
+  <p>
+    <img src="https://img.shields.io/badge/Focus-Flutter%20Development-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Location-Bangladesh-006A4E?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Open%20to-Learning-2563EB?style=flat-square"/>
+  </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ri-mahin&show_icons=true&locale=en&layout=compact" alt="ri-mahin" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ri-mahin&show_icons=true&locale=en" alt="ri-mahin" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ri-mahin&" alt="ri-mahin" /></p>
+```yaml
+name: Mohammad Rashiqul Ishraque Mahin
+username: ri-mahin
+location: Bangladesh
+
+role:
+  - Flutter Developer
+  - App Developer
+  - Aspiring Game Developer
+
+currently_learning:
+  - Unreal Engine
+  - Game Development
+
+interests:
+  - Mobile App Development
+  - Game Development
+  - Technology
+  - Content Creation
+
+email: mdrimahin@gmail.com
+```
+
+- 🇧🇩 I'm a developer from Bangladesh.
+- 📱 Passionate about building cross-platform applications using Flutter.
+- 🎮 Currently exploring game development with Unreal Engine and Unity.
+- 🚀 Always interested in learning new technologies and building creative projects.
+- 🎥 I'm also a content creator.
+- 💬 Ask me about Flutter, Unity and Unreal Engine.
+- ⚡ Fun fact: I love turning ideas into digital experiences.
+
+---
+
+## 🛠️ Languages, Frameworks & Tools
+
+<div align="center">
+
+### Mobile & Game Development
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,unity,unreal,blender" alt="Mobile and Game Development Tools"/>
+</a>
+
+### Programming Languages
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,java,kotlin,python,js" alt="Programming Languages"/>
+</a>
+
+### Web, Backend & Database
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,firebase,mysql,supabase" alt="Web and Backend Technologies"/>
+</a>
+
+### Design & Developer Tools
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=figma,git,github,postman,vscode,visualstudio" alt="Developer Tools"/>
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+  <!-- GITHUB STATS -->
+  <a href="https://github.com/ri-mahin">
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api?username=ri-mahin&show_icons=true&include_all_commits=true&rank_icon=github&theme=github_dark&hide_border=true&border_radius=12"
+      alt="GitHub Statistics"
+    />
+  </a>
+
+  <!-- TOP LANGUAGES -->
+  <a href="https://github.com/ri-mahin">
+    <img
+      height="180"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ri-mahin&layout=compact&langs_count=8&theme=github_dark&hide_border=true&border_radius=12"
+      alt="Most Used Languages"
+    />
+  </a>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+  <img
+    src="https://github-readme-streak-stats.demolab.com?user=ri-mahin&theme=github-dark-blue&hide_border=true&border_radius=12"
+    alt="GitHub Contribution Streak"
+  />
+
+</div>
+
+---
+
+## 📈 Contribution Activity Graph
+
+<div align="center">
+
+  <a href="https://github.com/ri-mahin">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=ri-mahin&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true&radius=12"
+      width="100%"
+      alt="GitHub Contribution Activity Graph"
+    />
+  </a>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/STATUS-COMING%20SOON-2563EB?style=for-the-badge" alt="Coming Soon"/>
+
+  ### 🚧 Projects Coming Soon!
+
+  I'm currently working on new projects.
+
+  Exciting applications and creative experiments are on the way!
+
+  <br/>
+
+  <a href="https://github.com/ri-mahin?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories"/>
+  </a>
+
+</div>
+
+<!--
+  ============================================
+  FUTURE FEATURED PROJECTS
+  ============================================
+
+  When you publish projects, replace this comment
+  with your actual repository cards.
+
+  Example:
+
+  <div align="center">
+    <a href="https://github.com/ri-mahin/PROJECT_NAME">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ri-mahin&repo=PROJECT_NAME&theme=github_dark&hide_border=true" />
+    </a>
+  </div>
+
+  You can add up to 6 project cards.
+-->
+
+---
+
+## 🏆 GitHub Profile Trophies
+
+<div align="center">
+
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=ri-mahin&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6"
+    width="100%"
+    alt="GitHub Profile Trophies"
+  />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+  <a href="https://linkedin.com/in/ri-mahin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://fb.com/mohammadrashiquemahin">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+
+  <a href="https://instagram.com/r.i_mahin">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+
+  <a href="https://www.youtube.com/c/@ri_mahin">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+
+  <a href="https://www.hackerrank.com/mdrimahin">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+
+  <a href="mailto:mdrimahin@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+</div>
+
+---
+
+<div align="center">
+
+  ### 💙 Thanks for visiting my profile!
+
+  **Let's connect, collaborate and build something amazing together.**
+
+  <br/>
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0D1117&height=120&section=footer"
+    width="100%"
+    alt="Footer"
+  />
+
+</div>

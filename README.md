@@ -41,7 +41,7 @@
 ```yaml
 name: Mohammad Rashiqul Ishraque Mahin
 username: ri-mahin
-location: Bangladesh
+location: Dhaka, Bangladesh
 
 role:
   - Flutter Developer

@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ri-mahin" alt="ri-mahin" /></a> </p>
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
 - 🌱 I’m currently learning **game development in unreal engine**
 
 - 💬 Ask me about **flutter, unity & unreal engine**
